@@ -1,6 +1,11 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# Tiny Tapeout 6: WillMatthews Opera
+
+> [!CAUTION]
+> This project is WIP. Probably won't get taped out. Learning exercise.
+> 
+> Worth a try :) I always wanted to learn Verilog.
 
 - [Read the documentation for project](docs/info.md)
 
